@@ -220,5 +220,7 @@ flutter run -d web-server
 
 ##
 ## 5. Feedback
+最後にこの資料を読んで、フィードバックをお願いします。
 
+https://forms.gle/6fNbHpddBHoDEDVN8
 ##
