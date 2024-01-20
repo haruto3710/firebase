@@ -179,6 +179,9 @@ class MyApp extends StatelessWidget {
 - 3の手順を実行して、flutterのプロジェクトを作成してください。
   
 - Firebase Analyticsを利用するには、pubspec.yamlにfirebase_analyticsを追加する必要があります。そのため以下のコマンドを実行してください。
+```
+flutter pub add firebase_analytics
+```
   
 - firebase1のファイルからmain.dartをコピーして自身のFlutterのプロジェクトのmain.dartにコピーして、以下のコマンドでFlutterを実行してください。
 ```
