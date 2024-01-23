@@ -29,7 +29,7 @@ apt update
 ```
 apt install nodejs npm
 ```
-- 次にfirebaseのインストールをします。以下のコマンドを実行してください。
+- 次にFirebase CLIのインストールをします。以下のコマンドを実行してください。
 ```
 npm install -g firebase-tools
 ```
